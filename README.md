@@ -1,4 +1,5 @@
-### Hi there 👋
+![title](https://i.imgur.com/G8iUGkz.png)
+<div align="center"><h1><em>Nyo ho</em></h1></div>
 
 <!--
 **GyroZeppeli1995/GyroZeppeli1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
